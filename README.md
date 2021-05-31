@@ -1,11 +1,8 @@
 # Flutter Generative Art
 
-Simple **Generative Art** created using **Flutter**.
-
-> Try it out on [DartPad](https://dartpad.dartlang.org/699dbd28b0465835d013ceb930bd083e?null_safety=true)
+Simple **Generative Art** created using **Flutter**. Try it out on [DartPad](https://dartpad.dartlang.org/699dbd28b0465835d013ceb930bd083e?null_safety=true)
 
 Watch the full video on YouTube: https://youtu.be/Hj75hOVDDeU
-
 
 ## License
 

@@ -1,10 +1,6 @@
 # Flutter Generative Art
 
-Simple **Generative Art** created using **Flutter**. 
-
-![](https://user-images.githubusercontent.com/43280874/120187314-42373600-c232-11eb-9698-b43c62c6f2f7.mov)
-
-
+Simple **Generative Art** created using **Flutter**.
 
 > Try it out on [DartPad](https://dartpad.dartlang.org/699dbd28b0465835d013ceb930bd083e?null_safety=true)
 
